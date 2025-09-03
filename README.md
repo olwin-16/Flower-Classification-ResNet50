@@ -55,13 +55,18 @@ This project implements a deep learning classifier for the **Oxford Flowers-102*
 **Training and Validation Accuracy**
   
 <br>
+<div align="center">
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/f9828ed2-bd1e-4b58-8964-a2670f6face5" />
+</div>
+<br>
 <br>
 
 **Training and Validation Loss**
   
 <br>
+<div align="center">
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/ce9080ba-d74a-4413-b195-5a0feb49c2b3" />
+</div>
 <br>
 
 ## **Getting Started**
