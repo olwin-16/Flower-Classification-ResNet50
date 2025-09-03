@@ -1,11 +1,5 @@
 # **Flower Image Classification Using ResNet50**
 
-<br>
-<div align="center">
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/080a9780-4419-44ff-afc0-7333e5ff43c5" />
-</div>
-<br>
-
 ## **Overview**
 
 This project implements a deep learning classifier for the **Oxford Flowers-102** dataset using a **ResNet50** model pre-trained on **ImageNet**. By leveraging transfer learning and regularization, the goal is to accurately distinguish between 102 diverse flower categories in a robust and computationally efficient manner.
@@ -15,6 +9,12 @@ This project implements a deep learning classifier for the **Oxford Flowers-102*
 - **Classes**: 102 flower species
 - **Images per class**: 40–258
 - **Components**: Flower images, segmentations, chi2 distances, labels, predefined splits
+
+<br>
+<div align="center">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/080a9780-4419-44ff-afc0-7333e5ff43c5" />
+</div>
+<br>
 
 ## **Workflow**
 
