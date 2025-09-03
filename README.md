@@ -46,14 +46,14 @@ This project implements a deep learning classifier for the **Oxford Flowers-102*
 
 ## **Visual Results**
 
-**Training and Validation Accuracy**
-
+- **Training and Validation Accuracy**
+<br>
 <img width="748" height="574" alt="image" src="https://github.com/user-attachments/assets/f9828ed2-bd1e-4b58-8964-a2670f6face5" />
-
-**Training and Validation Loss**
-
+<br>
+- **Training and Validation Loss**
+<br>
 <img width="762" height="628" alt="image" src="https://github.com/user-attachments/assets/ce9080ba-d74a-4413-b195-5a0feb49c2b3" />
-
+<br>
 ## **Getting Started**
 
 Follow these steps to clone the repository, set up, and run the project:
@@ -92,5 +92,6 @@ python train_flower_classifier.py
 ## References
 
 [Oxford Flowers-102 Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+
 [ResNet50: Deep Residual Learning](https://arxiv.org/abs/1512.03385)
 
